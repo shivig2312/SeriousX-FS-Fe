@@ -15,7 +15,7 @@ const emailForm = document.querySelector("#emailForm");
 
 const toast = document.querySelector(".toast");
 
-const baseURL = "https://seriousx-file-sharing.herokuapp.com";
+const baseURL = "https://file-shar-ing.herokuapp.com/";
 const uploadURL = `${baseURL}/api/files`;
 const emailURL = `${baseURL}/api/files/send`;
 
